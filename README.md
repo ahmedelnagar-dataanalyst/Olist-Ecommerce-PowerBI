@@ -61,6 +61,7 @@ This project analyzes the **Olist Brazilian E-Commerce dataset** from Kaggle, wh
 ## 📁 Dataset
 - **Source:** [Kaggle - Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Tables used:** Orders, Order Items, Products, Customers, Sellers, Reviews, Payments, Geolocation
+- https://app.powerbi.com/groups/me/reports/06123dcc-e04a-4e25-ad39-72c4be2b0962/289534812a9fdd137192?experience=power-bi
 
 ---
 
